@@ -1,0 +1,7 @@
+SBI\dao\Dao.class
+SBI\business\JobBusiness.class
+SBI\dao\JobDao.class
+SBI\entity\Job.class
+SBI\entity\Entity.class
+SBI\JAXRSConfiguration.class
+SBI\resource\JobResource.class
